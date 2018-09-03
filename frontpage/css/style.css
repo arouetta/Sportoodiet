@@ -1,0 +1,81 @@
+body{
+
+    margin: 0;
+
+    padding: 0; 
+    background-color:rgb(237, 241, 237);  
+
+   
+
+}
+#prog{
+    font-family:'Pacifico',cursive;
+    color:#222;
+    font-size:100px;
+
+}
+#para{
+    font-family:'Pacifico',cursive;
+    color:green;
+    font-size:100px;
+
+}
+
+.wrapper {
+    
+    width: 100%;
+
+    margin-top: 20vh;    
+
+}
+
+form{
+
+    margin: auto;
+
+}
+
+input{
+
+padding: 10px;
+
+border:none;
+
+  
+
+}
+
+
+
+input:focus {
+
+    border: none;
+
+    outline: none;
+
+    border-bottom: 5px solid #333;
+
+}
+
+#alert-box{
+
+    display: none;
+
+    height: 8vh;
+
+}
+
+
+
+button{
+
+    margin-top: 8px;
+
+}
+
+#inBtn{
+
+ background-color: rgb(72, 112, 66);
+ color:whitesmoke; 
+
+}
